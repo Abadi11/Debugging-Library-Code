@@ -132,7 +132,7 @@ function render() {
       row.append(deleteCell);
 
       tableBody.insertBefore(row, tableBody.firstChild);
-      
+
       addDeleteButtons();
       addReadButtons();
 
